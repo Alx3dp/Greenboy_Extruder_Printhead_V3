@@ -34,6 +34,11 @@ Mounting plate to printer:
 
 Ender 3:			2x m3x8
 
+Neptune 3:			2x m3x8
+	for pcb mounting:	3x m3 hexnut
+				2x m3x20
+				1x m3x10
+
 ---------------------------------------------
 
 
@@ -42,8 +47,9 @@ Optional:
 
 ---------------------------------------------
 
-Z probe adapter BL-touch:	3x m3x8
-				2x m3x6
+Z probe adapter BL-touch:
+	same as CR-Touch	3x m3x8
+	same as biqu microprobe	2x m3x6
 				5x hexnut
 
 Z probe adapter cartographer:	3x m3x10
@@ -51,6 +57,10 @@ Z probe adapter cartographer:	3x m3x10
 				1x m3x20-25
 				5x hexnut
 
+Z probe adapter Elegoo neptune 3 z probe:
+				3x m3x8
+				1x m3x10
+				4x hexnut
 
 
 

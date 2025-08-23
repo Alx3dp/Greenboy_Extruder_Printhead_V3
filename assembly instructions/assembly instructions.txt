@@ -33,8 +33,7 @@ Step two: 	Screw the Hotend Barrel into the Hotend fixture with 4 m4x8-12 screws
 		Be carful when screwing the scrws in to make sure everything is aligned properly so that you do not damage the threads of the Barrel.
 
 Step three: 	Put the pellet screw in the hotend barrel. You need to have the rotor facing the front for this.
-		Use 4 m3x50 screws to connect the hotend fixture to the funnel, 
-		pellet reservoir and motor plate and tighten them down.
+		Use 4 m3x50 screws to connect the hotend fixture to the pellet reservoir and motor plate and tighten them down.
 		Tighten the motor side of the coupler as much as you can, as said earlier. 
 		I recommend getting torx screws to not have an issue with stripping them.
 
